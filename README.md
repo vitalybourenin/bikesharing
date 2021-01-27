@@ -4,6 +4,9 @@
 Currently providing service in Jersey City, NJ as well as the boroughs of New York City, CitiBike is a public bicycle sharing system. The purpose of this analysis is to learn from the available data on NYC CitiBike use to determine if a similar program would be succesful in Des Moines, Iowa. 
 
 ## Results 
+![starting](starting.PNG)
+![ending](ending.PNG)
+![gender](gender.PNG)
 ![Customers](customers.PNG)
 
 
