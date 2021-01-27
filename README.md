@@ -5,8 +5,16 @@ Currently providing service in Jersey City, NJ as well as the boroughs of New Yo
 
 ## Results 
 ![starting](starting.PNG)
+CitiBike is used throughout the boroughs, with a significant concentration in Manhattan. 
+
 ![ending](ending.PNG)
+There has been rapid growth in the NYC/NJ market, CitiBike has more than tripled its number of operating bicycle stations since launching in 2013. 
+
+
 ![gender](gender.PNG)
+CitiBike has shown to appeal to both the male and female populations. 
+
+
 ![Customers](customers.PNG)
 
 
