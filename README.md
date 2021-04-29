@@ -7,20 +7,20 @@
 Currently providing service in Jersey City, NJ as well as the boroughs of New York City, CitiBike is a public bicycle sharing system. The purpose of this analysis is to learn from the available data on NYC CitiBike use to determine if a similar program would be succesful in Des Moines, Iowa. 
 
 ## Results 
-![starting](starting.PNG)
+![starting](Images/starting.PNG)
 CitiBike is used throughout the boroughs, with a significant concentration in Manhattan. 
 
-![ending](ending.PNG)
+![ending](Images/ending.PNG)
 
 There has been rapid growth in the NYC/NJ market, CitiBike has more than tripled its number of operating bicycle stations since launching in 2013. 
 
 
-![gender](gender.PNG)
+![gender](Images/gender.PNG)
 
 CitiBike has shown to appeal to both the male and female populations. 
 
 
-![Customers](customers.PNG)
+![Customers](Images/customers.PNG)
 
 CitiBike shows promising results in terms of Usertype, with a large number of subscribers, but also a high number of one-off customers that have the potential to be converted to subscribers. 
 
