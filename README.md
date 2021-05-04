@@ -25,7 +25,7 @@ CitiBike has shown to appeal to both the male and female populations.
 CitiBike shows promising results in terms of Usertype, with a large number of subscribers, but also a high number of one-off customers that have the potential to be converted to subscribers. 
 
 
-#Summary
+# Summary
 In this analysis we gain many insights into how CitiBike operates and is performing in the NYC/NJ market. In order to determine whether to bring this model to Des Moines, it would be essential to establish which factors of success in the NYC/NJ Market are most important in transitioning the model to the Des Moines market. One cannot make a determination on whether the model would translate well to Des Moines without having established which metrics are most important in determining success. 
 
 Additional visualizations that could improve the analysis include:
